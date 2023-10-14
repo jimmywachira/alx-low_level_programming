@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - print code wth printf fxn
-*return: 0 (Success)
+* main - print code wth printf fxn
+* Return: 0 (Success)
 */
 int main(void)
 {
