@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - function prints diff comb of 4 digits
- * Returns: 0 on success
+ * main - prints diff comb of 4 digits
+ * Return: 0 on success
  */
 int main(void)
 {
