@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - A program
- * Return: 0 on success, or a non-zero value on failure.
+ * main - prints alphabets
+ * Return: ALways 0 (Success)
  */
 int main(void)
 {
