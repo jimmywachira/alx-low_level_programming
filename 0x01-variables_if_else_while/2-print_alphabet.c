@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - A program to print
- *
- * Returns: 0 on success, or a non-zero value on failure.
+ * main - A program
+ * Return: 0 on success, or a non-zero value on failure.
  */
 int main(void)
 {
