@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - print code wth puts fxn
-* return : 0 (success)
+* Return: 0 (success)
 */
 int main(void)
 {
