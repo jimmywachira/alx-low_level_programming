@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - main file comment goes here
+ * main - main file
  * betty style doc for function main goes there
  * Returns: 0 on success, or a non-zero value on failure.
  */
