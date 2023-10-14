@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A program to print something
- *
- * Returns: 0 on success, or a non-zero value on failure.
+ * main - Entry point
+ * Return: 0 on success, or a non-zero value on failure.
  */
 int main(void)
 {

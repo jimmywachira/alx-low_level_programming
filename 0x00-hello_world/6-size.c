@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - A program to print sizes od this data types
- *
- * Returns: 0 on success, or a non-zero value on failure.
+ * main - print sizes od this data types
+ * Return: 0 on success, or a non-zero value on failure.
  */
 int main(void)
 {

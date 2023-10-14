@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - A progrm tht print code wth puts fxn
+* main - print code wth puts fxn
 * return : 0 (success)
 */
 int main(void)
